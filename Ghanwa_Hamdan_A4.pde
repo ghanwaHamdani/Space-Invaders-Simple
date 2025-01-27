@@ -1,7 +1,6 @@
 /*
-Ghanwa Hamdni
-ICS3U1
-Space Invaders Assignment - Unit 3
+Ghanwa Hamdani
+Space Invaders Assignment 
 May 1, 2023
 */
 
